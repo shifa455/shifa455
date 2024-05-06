@@ -1,0 +1,16 @@
+import heapq
+
+class Node:
+    def _init_(self, state, parent=None, action=None, g=0, h=0):
+        self.state, self.parent, self.action, self.g, self.h = state, parent, action, g, h
+    def f(self): return self.g + self.h
+
+def astar_search(initial, goal, succ, heur):
+    f, o, c = [(heur(initial), Node(initial))], {}, {initial: 0}
+    while f:
+        _, cur = heapq.heappop(f)
+        if goal(cur.state): return [cur.state]+(astar_search(cur.parent.state, goal, succ, heur) if cur.parent else [])
+        for a, s, d in succ(cur.state):
+            n, g = Node(s, cur, a, c[cur.state] + d, heur(s)), c.get(s, float('inf'))
+            if n.g < g: heapq.heappush(f, (n.f(), n)); c[s], o[s] = n.g, n
+    return []
