@@ -1,0 +1,27 @@
+import heapq
+
+def prim_mst(graph):
+    mst = []
+    visited = set()
+    heapq.heappush(mst, (0, 0, -1))
+    
+    while mst:
+        cost, to, frm = heapq.heappop(mst)
+        if to not in visited:
+            visited.add(to)
+            if frm != -1:
+                print(frm, "-", to, "\t", cost)
+            for new_to, new_cost in enumerate(graph[to]):
+                if new_cost > 0 and new_to not in visited:
+                    heapq.heappush(mst, (new_cost, new_to, to))
+
+# Example usage:
+graph = [
+    [0, 2, 0, 6, 0],
+    [2, 0, 3, 8, 5],
+    [0, 3, 0, 0, 7],
+    [6, 8, 0, 0, 9],
+    [0, 5, 7, 9, 0]
+]
+print("Edge \tWeight")
+prim_mst(graph)
