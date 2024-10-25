@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm shifa shaikh</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img src="https://th.bing.com/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&w=315&h=198&c=8&rs=1&qlt=90&r=0&o=6&dpr=1.3&pid=3.1&rm=2" alingment="right alt="coding" width="400px"
+<img src="https://th.bing.com/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&w=315&h=198&c=8&rs=1&qlt=90&r=0&o=6&dpr=1.3&pid=3.1&rm=2" alingment="right alt="coding" width="400px">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shifa455&label=Profile%20views&color=0e75b6&style=flat" alt="shifa455" /> </p>
 
@@ -23,4 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shifa455&show_icons=true&locale=en" alt="shifa455" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shifa455&" alt="shifa455" /></p>
+
+
+
+
 
