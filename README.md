@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shifa455&label=Profile%20views&color=0e75b6&style=flat" alt="shifa455" /> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m a **web development**
+  
+-  🌱 I’m currently learning **DATA STRUCTURE AND ALGORITHM**
 
 - 📫 How to reach me **shifashaikh455263@gmail.com**
 
