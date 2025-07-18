@@ -7,7 +7,7 @@
 
 - 🌱 I’m a **web development**
   
--  🌱 I’m currently learning **DATA STRUCTURE AND ALGORITHM**
+-  🌱 I’m currently learning **data structure and algorithm**
 
 - 📫 How to reach me **shifashaikh455263@gmail.com**
 
