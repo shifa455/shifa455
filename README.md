@@ -19,6 +19,9 @@
 <a href="https://x.com/ShifaShaik2002?t=AmhvClsF44AJoKIEMDm_iQ&s=09" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter icon" height="30" width="40" />
 </a>
+  <a href="https://leetcode.com/u/shifa20/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode icon" height="30" width="30" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
