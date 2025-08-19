@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shifa-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shifa-shaikh" height="30" width="40" /></a>
 <a href="https://x.com/ShifaShaik2002?t=AmhvClsF44AJoKIEMDm_iQ&s=09" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/twitter--v1.png" alt="Twitter icon" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter icon" height="30" width="40" />
 </a>
 </p>
 
